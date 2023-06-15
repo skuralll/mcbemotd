@@ -1,4 +1,4 @@
-module github.com/skuralll/get-mcbe-motd
+module github.com/skuralll/get_mcbe_motd
 
 go 1.20
 
